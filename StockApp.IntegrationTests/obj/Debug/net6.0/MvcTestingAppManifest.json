@@ -1,0 +1,5 @@
+{
+  "StockApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\abdll\\Source\\repos\\abdllah197\\ASP.NET-Core-6-Udemy\\Stock App Clean Architecture\\StockAppSolution\\StockApp.Core",
+  "StockApp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\abdll\\Source\\repos\\abdllah197\\ASP.NET-Core-6-Udemy\\Stock App Clean Architecture\\StockAppSolution\\StockApp.Infrastructure",
+  "StockApp.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\abdll\\Source\\repos\\abdllah197\\ASP.NET-Core-6-Udemy\\Stock App Clean Architecture\\StockAppSolution\\StockApp-UI"
+}
