@@ -1,0 +1,81 @@
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.AssemblyInfo.cs
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.deps.json
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.dll
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.pdb
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Core.dll
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Core.pdb
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.CopyComplete
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.dll
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\refint\StockApp.Infrastructure.dll
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.pdb
+C:\Users\3bood\source\repos\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\ref\StockApp.Infrastructure.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\KernelTraceControl.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\KernelTraceControl.Win61.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\msdia140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\msvcp140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\vcruntime140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\KernelTraceControl.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\msdia140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\msvcp140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\vcruntime140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\vcruntime140_1.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\KernelTraceControl.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\msdia140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\msvcp140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\vcruntime140.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\vcruntime140_1.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.deps.json
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.pdb
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Core.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Core.pdb
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.AssemblyInfo.cs
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.CopyComplete
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\refint\StockApp.Infrastructure.dll
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.pdb
+C:\Users\3bood\Source\Repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\ref\StockApp.Infrastructure.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\KernelTraceControl.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\KernelTraceControl.Win61.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\msdia140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\msvcp140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\x86\vcruntime140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\KernelTraceControl.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\msdia140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\msvcp140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\vcruntime140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\amd64\vcruntime140_1.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\KernelTraceControl.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\msdia140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\msvcp140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\vcruntime140.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\arm64\vcruntime140_1.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.deps.json
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Infrastructure.pdb
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Core.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\bin\Debug\net6.0\StockApp.Core.pdb
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.AssemblyInfo.cs
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.csproj.CopyComplete
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\refint\StockApp.Infrastructure.dll
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\StockApp.Infrastructure.pdb
+C:\Users\abdll\Source\repos\abdllah197\ASP.NET-Core-6-Udemy\Stock App Clean Architecture\StockAppSolution\StockApp.Infrastructure\obj\Debug\net6.0\ref\StockApp.Infrastructure.dll
